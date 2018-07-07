@@ -29,4 +29,12 @@
 <h3><b> Test the loaded Data </b></h3> select * from registe;</p></h6>
 
 
+<h1> Accessing Redshift Data from Spark </h1>
+
+<h6>Please Go through the code Which I was created in Intellij Project </h6>
+<h6> <a href="https://github.com/soumithx/IdeaProjects/tree/master/Redshift"> S3 2 Redshift 2 spark 2 s3 </a> </h6>
+
+
+
+
 
